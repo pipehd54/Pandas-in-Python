@@ -1,0 +1,7 @@
+Fecha,Producto,Cantidad,Precio_Unitario,Region,Total_Ventas
+2023-01-01,Laptop,5,1200,Norte,6000
+2023-01-02,Teclado,10,80,Sur,800
+2023-01-02,Mouse,15,50,Este,750
+2023-01-03,Monitor,8,300,Oeste,2400
+2023-01-03,Laptop,3,1200,Sur,3600
+2023-01-04,Teclado,7,80,Norte,560
